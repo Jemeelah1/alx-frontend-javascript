@@ -1,4 +1,3 @@
-import getResponseFromAPI from "./0-promise.js";
-
-const response = getResponseFromAPI();
-console.log(response);
+function mypromise() {
+   return promise;
+}
