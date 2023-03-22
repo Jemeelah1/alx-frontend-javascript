@@ -1,3 +1,3 @@
-function mypromise() {
+function handleResponseFromAPI(promise) {
    return promise;
 }
